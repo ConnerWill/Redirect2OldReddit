@@ -8,7 +8,7 @@
 <div align="center">
    
 ### **Reddit to Old.Reddit Redirection User Script**
-> *[Redirect2OldReddit](https://github.com/ConnerWill/Redirect2OldReddit) is a [UserScript](https://openuserjs.org/about/Userscript-Beginners-HOWTO) that redirects requests from [reddit.com](https://www.reddit.com) to [Old Reddit](https://old.reddit.com).*
+> *[Redirect2OldReddit](https://github.com/ConnerWill/Redirect2OldReddit) is a [UserScript](https://openuserjs.org/about/Userscript-Beginners-HOWTO) that redirects requests from [reddit.com](https://www.reddit.com) to [old.reddit.com](https://old.reddit.com).*
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/ConnerWill/Redirect2OldReddit)
 ![GitHub issues](https://img.shields.io/github/issues-raw/ConnerWill/Redirect2OldReddit)
@@ -128,7 +128,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 
 ---
-
 
 
 
